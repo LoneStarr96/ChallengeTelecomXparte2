@@ -2,7 +2,7 @@
 
 Challenge Alura-ONE Telecom X parte2
 
-# ** Análise de Churn - Telecom X parte2 **
+# Análise de Churn - Telecom X parte2 
 
 ## Introdução
 
