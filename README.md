@@ -2,7 +2,7 @@
 
 Challenge Alura-ONE Telecom X parte2
 
-# **# Análise de Churn - Telecom X parte2**
+# ** Análise de Churn - Telecom X parte2**
 
 ## Introdução
 
@@ -18,7 +18,7 @@ Esse projeto é a parte 2 do projeto Telecom X e tem como objetivo explorar mode
 - Scikit-learn
 - Google Colab
 
-## 🔄 Pipeline do Projeto
+## Pipeline do Projeto
 
 O projeto foi estruturado em etapas sequenciais, formando um fluxo de trabalho claro:
  
@@ -51,7 +51,7 @@ O projeto foi estruturado em etapas sequenciais, formando um fluxo de trabalho c
 └── README.md
 ```
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone este repositório:
    ```bash
