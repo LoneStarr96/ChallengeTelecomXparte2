@@ -55,7 +55,7 @@ O projeto foi estruturado em etapas sequenciais, formando um fluxo de trabalho c
 
 1. Clone este repositório:
    ```bash
-   git clone https
+   git clone https://github.com/LoneStarr96/ChallengeTelecomXparte2
 
 2. Abra o arquivo 'TelecomXparte2.ipynb', pelo Google Collab ou como preferir
 3. Altere o caminho do arquivo caso necessário 'dados = pd.read_csv('/CAMINHO/dados_tratados.csv')'
